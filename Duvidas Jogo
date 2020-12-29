@@ -1,0 +1,7 @@
+Ao inserir um modelo(boneco), ele vai para (0,0,0)?
+Inseri um boneco e tive que fazer translate (x,y,z) para ele aparecer. Depois reduzi (0.2,0.2,0.2) , mas tem como reduzir ainda mais?
+O boneco aparece a uma distância z. Como consigo mexer no z, sabendo-se que ele está sempre a incrementar. Queria por o boneca mais proximo e nao consigo, assim como outros objetos.
+Ao pôr a esfera, o boneco desaparece. Porque?
+A cor da esfera está se confundindo com o preto do plano, acho. Como corrijo?
+
+Ainda nao consegui rodar o mundo todo...
